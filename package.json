@@ -1,0 +1,19 @@
+{
+  "name": "ingredients",
+  "version": "1.0.0",
+  "description": "Detailed information about ingredients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuscodes/matheuscooks-ingredients.git"
+  },
+  "author": "Matheus Borges Teixeira",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matheuscodes/matheuscooks-ingredients/issues"
+  },
+  "homepage": "https://github.com/matheuscodes/matheuscooks-ingredients#readme"
+}
