@@ -46,7 +46,7 @@ module.exports = {
       choline: 0.1040,
       folate: 0.00026,
       e: 0.0006,
-      k: 0.0030,
+      k: 0.000003,
     },
     minerals:{
       calcium: 0.15,
