@@ -15,7 +15,7 @@ module.exports = {
     vitamins:{
       choline: 0.003,
       e: 0.1435,
-      k: 0.6020,
+      k: 0.000602,
     },
     minerals:{
       calcium: 0.010,
