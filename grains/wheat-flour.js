@@ -1,4 +1,9 @@
 module.exports = {
+  translations:{
+    en:'Wheat flour',
+    pt:'Farinha de trigo',
+    de:'Weizenmehl',
+  },
   nutritionValues: {
     water: 119.2,
     carbs:{

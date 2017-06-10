@@ -1,4 +1,9 @@
 module.exports = {
+  translations:{
+    en:'Olive oil',
+    pt:'Azeite de Oliva',
+    de:'Olivenöl',
+  },
   nutritionValues: {
     lipids:{
       fat:{

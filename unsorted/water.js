@@ -1,4 +1,9 @@
 module.exports = {
+  translations:{
+    en:'Water',
+    pt:'Água',
+    de:'Wasser',
+  },
   nutritionValues: {
     water: 999,
     minerals:{

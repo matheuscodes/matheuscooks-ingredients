@@ -1,4 +1,9 @@
 module.exports = {
+  translations:{
+    en:'Vodka',
+    pt:'Vodca',
+    de:'Wodka',
+  },
   nutritionValues: {
     alcohol: 334,
     water: 666,

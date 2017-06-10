@@ -1,4 +1,9 @@
 module.exports = {
+  translations:{
+    en:'Baking powder',
+    pt:'Fermento em pó',
+    de:'Backpulver',
+  },
   nutritionValues: {
     water: 50,
     carbs:{
